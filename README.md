@@ -84,6 +84,6 @@ This tutorial outlines the post-install configuration of the open-source help de
   <li>Other</li>
   </ul>
 
-  <h2>When ticketing systems are created, help topics are assigned to the ticket to help understand what the problem is about.</h2>
+  <h2>When tickets are created, help topics are assigned to the ticket to help understand what the problem is about.</h2>
 
 
