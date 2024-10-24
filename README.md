@@ -64,17 +64,26 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/Be9TdaF.png">
 
 <h3>Admin Panel -> Manage -> SLA
-Sev-A (Grace Period: 1 hour, Schedule: 24/7)
-Sev-B (Grace Period: 4 hours, Schedule: 24/7)
-Sev-C (Grace Period: 8 hours, Business Hours)
+  <ul>
+  <li>Sev-A (Grace Period: 1 hour, Schedule: 24/7)</li>
+  <li>Sev-B (Grace Period: 4 hours, Schedule: 24/7)</li>
+  <li>Sev-C (Grace Period: 8 hours, Business Hours)</li>
+</ul>
 </h3>
 
-<h3>Configure Help Topics (For when users create a ticket)
-Admin Panel -> Manage -> Help Topics
-Business Critical Outage
-Personal Computer Issues
-Equipment Request
-Password Reset
-Other</h3>
+<h2>SLA provides a length of time in which the admin is expected to handle and close the ticket. This assures an organized consistency of tickets being solved within that timeframe.</h2>
+<img src="https://i.imgur.com/HV2ghwW.png">
+
+<h3>Configure Help Topics (For when users create a ticket)</h3>
+<h4>Admin Panel -> Manage -> Help Topics</h4
+    <ul>
+  <li>Business Critical Outage</li>
+  <li>Personal Computer Issues</li>
+  <li>Equipment Request</li>
+  <li>Password Reset</li>
+  <li>Other</li>
+  </ul>
+
+  <h2>When ticketing systems are created, help topics are assigned to the ticket to help understand what the problem is about.</h2>
 
 
